@@ -13,8 +13,8 @@ if True:
         st.markdown('## AI Interviewer')
         st.markdown(""" 
         #### Contact Us:
-        ('shailpatel2811@gmail.com')
-        <br>
+        [Email]('shailpatel2811@gmail.com'/n)
+    
         [Shail Patel](www.linkedin.com/in/shailpatel2811)
                     """)
     st.markdown(
