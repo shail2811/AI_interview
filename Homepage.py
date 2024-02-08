@@ -11,9 +11,9 @@ if True:
     home_introduction = "Welcome to AI Interviewer, empowering your interview preparation with generative AI."
     with st.sidebar:
         st.markdown('## AI Interviewer')
-        st.markdown('shailpatel2811@gmail.com')
         st.markdown(""" 
         #### Contact Us:
+        ('shailpatel2811@gmail.com')
         [Shail Patel](www.linkedin.com/in/shailpatel2811)
                     """)
     st.markdown(
