@@ -14,6 +14,7 @@ if True:
         st.markdown(""" 
         #### Contact Us:
         ('shailpatel2811@gmail.com')
+        <br>
         [Shail Patel](www.linkedin.com/in/shailpatel2811)
                     """)
     st.markdown(
