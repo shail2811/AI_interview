@@ -14,11 +14,7 @@ if True:
         st.markdown('## Team : Mission-999')
         st.markdown(""" 
         #### Contact Us:
-        [Aagam Shah](https://www.linkedin.com/in/aagamshah08)
-       
-        [Sai Praneeth konuri](https://www.linkedin.com/in/sai-praneeth-konuri)
-                    
-        [Sri Vinay Appari](https://www.linkedin.com/in/SriVinayA)
+        [Shail Patel](www.linkedin.com/in/shailpatel2811)
                     """)
     st.markdown(
         "<style>#MainMenu{visibility:hidden;}</style>",
